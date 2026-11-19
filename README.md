@@ -22,7 +22,7 @@ A research prototype exploring trustworthy AI for financial-report analysis. It 
 
 **Engineering principle:** the model may explain verified data, but it must not invent financial figures.
 
-The current benchmark is intentionally narrow and based on one public-company filing. See the project README for methodology, reproducibility steps, and limitations.
+The PDF extraction fixture remains intentionally narrow and is based on one public-company filing; a separate calculation benchmark covers Apple, Microsoft, and Amazon FY2022–FY2023 reference data. See the project README for methodology, reproducibility steps, and limitations.
 
 ## Selected toolkit
 
