@@ -1,62 +1,39 @@
-<div align="center">
-
 # David Wu
 
-**Product Leader · Fintech × AI**
+**AI Product & Technology Leader | Enterprise AI | FinTech | Intelligent Financial Solutions**
 
-Building trustworthy AI products that turn complex financial data into clear, decision-ready insight.
+Building enterprise AI products at the intersection of financial services, intelligent automation, and commercial product strategy.
 
-[![Tests](https://img.shields.io/badge/tests-20%20passed-green)](https://github.com/davidwuphp-a11y/ai-financial-analyst)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
+I focus on turning complex business workflows into reliable AI-enabled products — from product strategy and 0-to-1 development to enterprise deployment, customer adoption, and commercialization.
 
-</div>
+## Focus areas
 
----
-
-## What I work on
-
-I sit at the intersection of **product strategy, financial technology, and applied AI**.
-My focus is the hard, unglamorous part of enterprise AI: making systems that are accurate,
-auditable, and genuinely trusted — not just impressive in a demo.
-
-I care about three questions in every AI product I build:
-
-1. **Can we prove the number is right?** — deterministic computation, not model guesswork.
-2. **Can we trace where it came from?** — evidence and source attribution, end to end.
-3. **Can we catch the model when it's wrong?** — validation layers as a first-class feature.
+- Enterprise AI strategy, product design, and 0-to-1 delivery
+- LLM applications, RAG, AI agents, model evaluation, and responsible AI
+- Financial technology, investment workflows, and intelligent financial services
+- AI-enabled operations, workflow automation, and enterprise transformation
+- Cross-functional product leadership, customer discovery, and go-to-market execution
 
 ## Featured project
 
 ### [AI Financial Analyst](https://github.com/davidwuphp-a11y/ai-financial-analyst)
 
-A trustworthy AI prototype that reads public-company financial reports, extracts figures
-with page-level evidence, computes ratios with deterministic functions, and generates
-AI-assisted analysis guarded by a numeric hallucination check.
+A research prototype exploring trustworthy AI for financial-report analysis. It combines evidence-backed extraction, deterministic financial calculations, and a numeric validation layer to reduce unsupported numerical claims.
 
-- Evidence-backed extraction: **100%** accuracy on the demo filing
-- Numeric hallucination guard: **100%** of injected fake numbers blocked
-- **20/20** unit tests passing · mock LLM provider (no API key required)
+**Engineering principle:** the model may explain verified data, but it must not invent financial figures.
 
-> The core idea: *the AI may explain, but it may never invent a number.*
+The current benchmark is intentionally narrow and based on one public-company filing. See the project README for methodology, reproducibility steps, and limitations.
 
-## Toolkit
+## Selected toolkit
 
-`Product strategy` · `AI product design` · `Fintech & payments` · `LLM applications`
-`Python` · `Streamlit` · `Data & evaluation` · `Go-to-market for AI products`
+Product strategy · Enterprise AI · FinTech · LLM applications · RAG · AI agents · Python · Streamlit · Data evaluation · Go-to-market
 
-## Let's connect
+## Connect
 
-I'm interested in product leadership roles where AI meets finance, and in conversations
-with people building serious AI products.
-
-- Open to: Product Lead / Head of Product · international or global teams
-- Reach me: via GitHub profile or [LinkedIn](#)
+- **LinkedIn:** [linkedin.com/in/david-wu-a60a0144b](https://www.linkedin.com/in/david-wu-a60a0144b)
+- **GitHub:** [github.com/davidwuphp-a11y](https://github.com/davidwuphp-a11y)
+- **Email:** davidwuphp@gmail.com
 
 ---
 
-<div align="center">
-
-*This profile and the featured project are personal, public-domain explorations.
-No confidential or internal material is used.*
-
-</div>
+*All repositories featured here are personal portfolio and research projects. They do not contain confidential employer or client information.*
