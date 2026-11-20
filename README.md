@@ -38,7 +38,7 @@ Product strategy · Enterprise AI · FinTech · LLM applications · RAG · AI ag
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/david-wu-a60a0144b](https://www.linkedin.com/in/david-wu-a60a0144b)
+- **LinkedIn:** 
 - **GitHub:** [github.com/davidwuphp-a11y](https://github.com/davidwuphp-a11y)
 - **Email:** davidwuphp@gmail.com
 
