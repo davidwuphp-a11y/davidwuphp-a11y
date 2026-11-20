@@ -14,15 +14,23 @@ I focus on turning complex business workflows into reliable AI-enabled products 
 - AI-enabled operations, workflow automation, and enterprise transformation
 - Cross-functional product leadership, customer discovery, and go-to-market execution
 
-## Featured project
+## Featured projects
 
-### [AI Financial Analyst](https://github.com/davidwuphp-a11y/ai-financial-analyst)
+### [AI Financial Analyst](https://github.com/davidwuphp-a11y/ai-financial-analyst) · [Live demo](https://ai-financial-analyst-85femw8iudtthcvghkcfzu.streamlit.app/)
 
-A research prototype exploring trustworthy AI for financial-report analysis. It combines evidence-backed extraction, deterministic financial calculations, and a numeric validation layer to reduce unsupported numerical claims.
+A deployed research prototype for evidence-backed financial-report analysis. It combines document extraction with source evidence, deterministic financial calculations, AI-assisted interpretation, numeric and semantic validation, and reviewable HTML/PDF reports.
 
 **Engineering principle:** the model may explain verified data, but it must not invent financial figures.
 
-The PDF extraction fixture remains intentionally narrow and is based on one public-company filing; a separate calculation benchmark covers Apple, Microsoft, and Amazon FY2022–FY2023 reference data. See the project README for methodology, reproducibility steps, and limitations.
+The included PDF extraction fixture is intentionally narrow and based on one public-company filing; a separate calculation benchmark covers Apple, Microsoft, and Amazon FY2022–FY2023 reference data. The public demo runs with an offline Mock provider and public sample data.
+
+### [AgentOps for Securities](https://github.com/davidwuphp-a11y/agentops-for-securities)
+
+A research and engineering prototype for governing AI agents in high-risk financial workflows, demonstrated through a synthetic securities KYC/CDD process. It includes evidence-bound decisions, role and tool allowlists, maker-checker approval snapshots, tamper-evident audit events, durable orchestration, lease coordination, idempotency controls, and synthetic evaluation.
+
+**Engineering principle:** an AI agent may propose and orchestrate actions only within explicit policy, evidence, and human-approval boundaries.
+
+This is a prototype validated with synthetic cases, not a production-certified financial control system.
 
 ## Selected toolkit
 
