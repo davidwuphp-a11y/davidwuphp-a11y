@@ -32,6 +32,16 @@ A research and engineering prototype for governing AI agents in high-risk financ
 
 This is a prototype validated with synthetic cases, not a production-certified financial control system.
 
+### Tool Causal Transport — Research Preprint
+
+**[A Prespecified Qualification Failure Before a Planned Causal Evaluation of Tool-Identity Steering](https://doi.org/10.5281/zenodo.24519139)** · [Zenodo record](https://zenodo.org/records/24519139)
+
+A research preprint documenting a prespecified source-interface qualification failure for Qwen3-0.6B. The qualification run stopped when the third strict positive failure made the required 28/30 threshold unattainable (maximum possible: 27/30). The formal causal intervention experiment did not start; whether tool-identity steering causally transfers across interfaces remains unknown.
+
+Version 1.0 · Published 25 November 2026 · DOI: [10.5281/zenodo.24519139](https://doi.org/10.5281/zenodo.24519139) · All versions: [10.5281/zenodo.24519138](https://doi.org/10.5281/zenodo.24519138)
+
+This is a research preprint, not a validated product or a claim that causal steering efficacy has been established.
+
 ## Selected toolkit
 
 Product strategy · Enterprise AI · FinTech · LLM applications · RAG · AI agents · Python · Streamlit · Data evaluation · Go-to-market
